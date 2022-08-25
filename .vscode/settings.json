@@ -1,0 +1,6 @@
+{
+  "editor.fontFamily": "'JetBrains Mono', Consolas, 'Courier New', monospace",
+  "editor.fontLigatures": true,
+  "indentRainbow.colorOnWhiteSpaceOnly": true,
+  "indentRainbow.indicatorStyle": "light"
+}
