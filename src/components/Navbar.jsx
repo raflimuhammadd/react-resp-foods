@@ -23,12 +23,12 @@ function Navbar() {
         <div onClick={() => setNav(!nav)} className="cursor-pointer">
           <AiOutlineMenu size={30} />
         </div>
-        <h1 className="text-2xl sm:text-3xl lg:text-4xl">
-          Eat <span className="font-bold">Bro's</span>
+        <h1 className="text-2xl sm:text-3xl lg:text-5xl ml-3">
+          Eat <span className="font-bold text-orange-500">Bro's</span>
         </h1>
         <div
           className="hidden lg:flex items-center bg-gray-200
-        rounded-full p-1 text-[14px]"
+        rounded-full p-1 text-[14px] ml-4"
         >
           <p className="bg-black text-white rounded-full p-2">Delivery</p>
           <p className="p-2">Pickup</p>
