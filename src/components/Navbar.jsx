@@ -70,7 +70,7 @@ function Navbar() {
           className="absolute right-4 top-4 cursor-pointer hover:scale-125 duration-300 shadow-lg"
         />
         <h2 className="text-2xl p-4">
-          Eats <span className="font-bold">Bro's</span>{" "}
+          Eats <span className="font-bold text-orange-600">Bro's</span>{" "}
         </h2>
         <nav>
           <ul className="flex flex-col p-4 text-gray-800">
